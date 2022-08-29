@@ -1,0 +1,11 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "packageManager": "yarn@3.2.1",
+  "private": true,
+  "author": {
+    "name": "Wasiq Bhamla"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
